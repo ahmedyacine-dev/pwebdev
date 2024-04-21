@@ -404,7 +404,7 @@ font-size: 40px;
 }
 
 .S2{
-    background-image: url(minou/supliments2.png);
+    background-image: url(supliments2.png);
     width: 100%;
     background-size: cover;
     height: 60%;
@@ -424,7 +424,7 @@ font-size: 40px;
     font-size: 40px;
 }
 .S3{
-    background-image: url(minou/BCAA.png);
+    background-image: url(BCAA.png);
     width: 100%;
     background-size: cover;
     height: 60%;
@@ -444,7 +444,7 @@ font-size: 40px;
 }
 
 .E1{
-    background-image: url(minou/equipement1.png);
+    background-image: url(equipement1.png);
     width: 100%;
     background-size: cover;
     height: 60%;
@@ -462,7 +462,7 @@ text-align: center;
     font-size: 40px; 
 }
 .E2{
-    background-image: url(minou/equipement2.png);
+    background-image: url(equipement2.png);
     width: 100%;
     background-size: cover;
     height: 60%;
@@ -482,7 +482,7 @@ text-align: center;
     
 }
 .E3{
-    background-image: url(minou/equipement3.png);
+    background-image: url(equipement3.png);
     width: 100%;
     background-size: cover;
     height: 60%;
@@ -610,9 +610,7 @@ input{
     
 }
 @media (max-width : 700px){
-    body{
-        background-color: bisque;
-    }
+   
 }
 .active2{
     display: block;
